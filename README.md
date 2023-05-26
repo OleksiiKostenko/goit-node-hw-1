@@ -23,7 +23,7 @@ node index.js --action="remove" --id qdggE76Jtbfd9eWJHrssH
 
 examples of works:
 
-command "list" : https://monosnap.com/file/UQV8x6vusznJecxdkFJ5s5dmE6PfWv
-command "get" : https://monosnap.com/file/bZspsfEq796iVDwjRRPZ7oAvHfIjxC
-command "add" : https://monosnap.com/file/NqmhQAsOtHsi2QqDy80D1yW84SiJth
-command "remove" : https://monosnap.com/file/aREJ6iULJ84J1QEhs7EHtkJdsoBjpV
+command "list" : https://monosnap.com/file/UQV8x6vusznJecxdkFJ5s5dmE6PfWv;
+command "get" : https://monosnap.com/file/bZspsfEq796iVDwjRRPZ7oAvHfIjxC;
+command "add" : https://monosnap.com/file/NqmhQAsOtHsi2QqDy80D1yW84SiJth;
+command "remove" : https://monosnap.com/file/aREJ6iULJ84J1QEhs7EHtkJdsoBjpV;
