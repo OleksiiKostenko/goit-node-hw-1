@@ -1,13 +1,8 @@
 const fs = require("fs/promises");
 const path = require("path");
 const { nanoid } = require("nanoid");
-const { constants } = require("buffer");
 
 const contactsPath = path.join(__dirname, "db", "contacts.json");
-
-async function writeFile(data) {
-  return await fs.writeFile(contactsPath, JSON.stringify(data, null, 2));
-}
 
 async function listContacts() {
   const data = await fs.readFile(contactsPath, { encoding: "utf-8" });
